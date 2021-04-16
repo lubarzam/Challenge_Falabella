@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="ChallengeTest" file="C:\xampp\htdocs\challenge\Test\ChallengeTest.php" tests="4" assertions="15" errors="0" warnings="0" failures="0" skipped="0" time="0.000744">
+    <testcase name="testPrintResult" class="ChallengeTest" classname="ChallengeTest" file="C:\xampp\htdocs\challenge\Test\ChallengeTest.php" line="9" assertions="1" time="0.000291"/>
+    <testcase name="testCheckValueToPrint" class="ChallengeTest" classname="ChallengeTest" file="C:\xampp\htdocs\challenge\Test\ChallengeTest.php" line="42" assertions="4" time="0.000134"/>
+    <testcase name="testCheckMultiple" class="ChallengeTest" classname="ChallengeTest" file="C:\xampp\htdocs\challenge\Test\ChallengeTest.php" line="56" assertions="5" time="0.000144"/>
+    <testcase name="testGetWord" class="ChallengeTest" classname="ChallengeTest" file="C:\xampp\htdocs\challenge\Test\ChallengeTest.php" line="73" assertions="5" time="0.000175"/>
+  </testsuite>
+</testsuites>
