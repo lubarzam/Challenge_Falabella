@@ -14,3 +14,6 @@ operators or `else`.
 * Feel free to apply your SOLID knowledge
 * You can write the challenge in any language you want. Here at Falabella we are
 big fans of PHP, Kotlin and TypeScript
+
+
+Solution can bi viewed at: https://backend-challenge.digitaliza.cl/
