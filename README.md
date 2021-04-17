@@ -16,4 +16,4 @@ operators or `else`.
 big fans of PHP, Kotlin and TypeScript
 
 
-Solution can bi viewed at: https://backend-challenge.digitaliza.cl/
+The solution can be seen in the following link: https://backend-challenge.digitaliza.cl/
